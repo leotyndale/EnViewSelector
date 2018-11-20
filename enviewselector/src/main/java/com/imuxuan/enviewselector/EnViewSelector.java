@@ -138,7 +138,7 @@ public class EnViewSelector extends LinearLayout {
                     public void onItemClick(AdapterView<?> parent, View view, final int position, long id) {
                         final TextView moodText = view.findViewById(R.id.mood_text);
                         final CharSequence moodTextData = moodText.getText();
-                        if (!TextUtils.isEmpty(moodTextData)) {
+                        if (TextUtils.isEmpty(moodTextData)) {
                             return;
                         }
                         final EditText blankEditor;
