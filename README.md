@@ -7,4 +7,4 @@ EnViewSelector
 
 
 ### 预览图
-![预览图](https://raw.githubusercontent.com/leotyndale/EnViewSelector/master/img/1.gif)
+<img src="https://raw.githubusercontent.com/leotyndale/EnViewSelector/master/img/1.gif" width = "30%" />
