@@ -7,4 +7,4 @@ EnViewSelector
 
 
 ### 预览图
-![预览图](https://raw.githubusercontent.com/leotyndale/EnFloatingView/master/preview/logo.png)
+![预览图](https://raw.githubusercontent.com/leotyndale/EnViewSelector/master/img/1.gif)
